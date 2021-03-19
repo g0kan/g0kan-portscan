@@ -1,2 +1,2 @@
-# g0kan-portscan
+# PortScan!
 Portscan simples desenvolvido em python.
