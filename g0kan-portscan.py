@@ -3,8 +3,6 @@
 import socket
 import sys
 from colorama import Fore
-import requests
-from time import sleep
 import os
 
 os.system(['clear', 'cls'][os.name == 'nt'])
