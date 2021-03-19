@@ -7,7 +7,7 @@ import requests
 from time import sleep
 import os
 
-os.system("clear")
+os.system(['clear', 'cls'][os.name == 'nt'])
 ip = sys.argv[1]
 
 green = Fore.GREEN
